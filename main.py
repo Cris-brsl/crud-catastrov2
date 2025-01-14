@@ -43,5 +43,6 @@ menu(window)
 
 #Para iniciar desde el login, la contraseña es 1234
 # login(window)
+#ola
 
 window.mainloop()
